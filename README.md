@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/balakumar4/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/balakumar4/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/balakumar4/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/balakumar4/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/balakumar4/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/balakumar4/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/balakumar4/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/balakumar4/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/balakumar4/leetcode-solutions/tree/master/0169-majority-element) |
+| [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/balakumar4/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
