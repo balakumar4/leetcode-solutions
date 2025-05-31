@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/balakumar4/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/balakumar4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/balakumar4/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/balakumar4/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/balakumar4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/balakumar4/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/balakumar4/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/balakumar4/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/balakumar4/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/balakumar4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/balakumar4/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/balakumar4/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
