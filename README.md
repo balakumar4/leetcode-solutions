@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/balakumar4/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/balakumar4/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/balakumar4/leetcode-solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3447-clear-digits](https://github.com/balakumar4/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/balakumar4/leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
 |  |
@@ -88,4 +89,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/balakumar4/leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/balakumar4/leetcode-solutions/tree/master/3447-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/balakumar4/leetcode-solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
