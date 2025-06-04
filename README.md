@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/balakumar4/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1293-three-consecutive-odds](https://github.com/balakumar4/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balakumar4/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2058-concatenation-of-array](https://github.com/balakumar4/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2756-buy-two-chocolates](https://github.com/balakumar4/leetcode-solutions/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2756-buy-two-chocolates](https://github.com/balakumar4/leetcode-solutions/tree/master/2756-buy-two-chocolates) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/balakumar4/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
