@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balakumar4/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2058-concatenation-of-array](https://github.com/balakumar4/leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2756-buy-two-chocolates](https://github.com/balakumar4/leetcode-solutions/tree/master/2756-buy-two-chocolates) |
+| [2836-neither-minimum-nor-maximum](https://github.com/balakumar4/leetcode-solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/balakumar4/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/balakumar4/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [2756-buy-two-chocolates](https://github.com/balakumar4/leetcode-solutions/tree/master/2756-buy-two-chocolates) |
+| [2836-neither-minimum-nor-maximum](https://github.com/balakumar4/leetcode-solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## String
 |  |
 | ------- |
