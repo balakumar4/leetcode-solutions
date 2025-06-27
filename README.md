@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/balakumar4/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/balakumar4/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/balakumar4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/balakumar4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/balakumar4/leetcode-solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/balakumar4/leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2058-concatenation-of-array](https://github.com/balakumar4/leetcode-solutions/tree/master/2058-concatenation-of-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/balakumar4/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/balakumar4/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/balakumar4/leetcode-solutions/tree/master/0948-sort-an-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/balakumar4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [2756-buy-two-chocolates](https://github.com/balakumar4/leetcode-solutions/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/balakumar4/leetcode-solutions/tree/master/2836-neither-minimum-nor-maximum) |
 ## String
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/balakumar4/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/balakumar4/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/balakumar4/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/balakumar4/leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
